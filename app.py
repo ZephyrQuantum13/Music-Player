@@ -65,6 +65,9 @@ class App(QWidget):
 
         self.setLayout(self.LayoutMain)
 
+       
+
+
 
 
 
